@@ -1,0 +1,6 @@
+{
+  "name": "CreatorConnect AI",
+  "description": "AI-Native Marketplace connecting top AI creators with brands & agencies. Discover creators, inspect AI portfolios, publish creative briefs with AI assistance, and manage end-to-end engagements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
